@@ -3,8 +3,8 @@ import React from 'react'
 const HomePage = () => {
   return (
     <div>
-      <h1>HomePage</h1>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui cupiditate nam eius. Tempora maxime molestiae quos, porro enim sit iusto non odio natus unde cupiditate obcaecati dignissimos! Quisquam dignissimos, illo reprehenderit cupiditate maxime ullam voluptatum exercitationem cumque? Eius culpa, adipisci voluptates laborum, dolores exercitationem totam unde repellendus temporibus esse eligendi!</p>
+      <h1 className='text-6xl'>HomePage</h1>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse autem repudiandae earum quod pariatur quam quae ducimus minima exercitationem culpa officia inventore excepturi tempore consequuntur qui, error dolores possimus ad eos expedita omnis totam quaerat ipsa velit! Ipsa, maiores facere nisi, distinctio vero tenetur nihil voluptatibus soluta deserunt omnis molestiae?</p>
     </div>
   )
 }
